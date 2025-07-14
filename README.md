@@ -6,7 +6,3 @@ A simple URL shortner built with Flask.
 - URL shortening
 - URL pairs storage
 - URL redirection
-
-## Quick Start
-
-## Running Tests
