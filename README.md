@@ -1,6 +1,6 @@
-# URL Shortner
+# URL Shortener
 
-A simple URL shortner built with Flask.
+A simple URL shortener built with Flask.
 
 ## Features
 - URL shortening
